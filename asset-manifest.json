@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diem-danh-app/static/css/main.f855e6bc.css",
+    "main.js": "/diem-danh-app/static/js/main.1ae15cf7.js",
+    "static/js/453.2b5d3feb.chunk.js": "/diem-danh-app/static/js/453.2b5d3feb.chunk.js",
+    "index.html": "/diem-danh-app/index.html",
+    "main.f855e6bc.css.map": "/diem-danh-app/static/css/main.f855e6bc.css.map",
+    "main.1ae15cf7.js.map": "/diem-danh-app/static/js/main.1ae15cf7.js.map",
+    "453.2b5d3feb.chunk.js.map": "/diem-danh-app/static/js/453.2b5d3feb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1ae15cf7.js"
+  ]
+}
